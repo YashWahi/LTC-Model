@@ -1,4 +1,4 @@
-# This is the master README file for your fully runnable project
+
 
 ## Power System AI Project: Load Tap Changer Control & Load Forecasting
 
